@@ -1,13 +1,23 @@
 void    dp_putchar(char c);
 
-void    ok(char a, char b, char c, char d)
+void    print(int a)
 {
-    dp_putchar(a);
-    dp_putchar(b);
+    char    x;
+    char    y;
+    
+    y = (a % 10) + '0';
+    a /= 10;
+    x = (a % 10) + '0';
+    dp_putchar(x);
+    dp_putchar(y);
+}
+
+void    ok(int a, int b)
+{
+    print(a);
     dp_putchar(' ');
-    dp_putchar(c);
-    dp_putchar(d);
-    if ((a != '9') || (b != '8') || (c != '9') || (d != '9'))
+    print(b);
+    if ((a != 98) || (b != 99))
     {
         dp_putchar(',');
         dp_putchar(' ');
@@ -16,36 +26,19 @@ void    ok(char a, char b, char c, char d)
 
 void	dp_print_comb2(void)
 {
-    char    a;
-    char    b;
-    char    c;
-    char    d;
+    int     a;
+    int     b;
     
-    a = '0';
-    b = '0';
-    while (a <= '9')
+    a = 00;
+    b = 00;
+    while (a <= 98)
     {
-        if (b > '9')
+        b = a + 1;
+        while (b <= 99)
         {
-            a++;
-            b = '0';
+            ok(a, b);
+            b++;
         }
-        c = a;
-        if (b == '9')
-            c++; 
-        d = b + 1;
-        if (b == '9')
-            d = '0';
-        while (c <= '9')
-        {
-            ok(a, b, c, d);
-            d++;
-            if (d > '9')
-            {
-                c++;
-                d = '0';
-            }
-        }
-        b++;
+        a++;
     }
 }
