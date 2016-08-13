@@ -1,4 +1,4 @@
-int     ft_atoi(char *str)
+int     dp_atoi(char *str)
 {
     int     sint;
     int     i;
