@@ -1,3 +1,5 @@
+void    dp_putchar(char c);
+
 void    colle(int x, int y)
 {
     int     col;
