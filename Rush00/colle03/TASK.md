@@ -1,5 +1,5 @@
 # Project
-Should do following:
+Should do for colle(x, y):
 
 - colle(5, 3);
 
