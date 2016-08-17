@@ -1,5 +1,8 @@
-# Project
-Should do following:
+# Project 04
+```C
+void  colle(int x, int y);
+```
+Should do:
 
 - colle(5, 3);
 
