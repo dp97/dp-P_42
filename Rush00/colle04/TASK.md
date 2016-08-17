@@ -1,10 +1,6 @@
-## Piscine 42
-
-School 42 Moldova
-
 ## colle(5, 3);
 
-$>./a.out 
+$>./a.out\n
 ABBBC
 B   B
 ABBBC
