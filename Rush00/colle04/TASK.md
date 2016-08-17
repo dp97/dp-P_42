@@ -6,4 +6,7 @@ Should do following:
 $>./a.out
 
 ABBBC
+
 B   B
+
+ABBBC
