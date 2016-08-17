@@ -1,5 +1,8 @@
 # Project
-Should do for colle(x, y):
+```C
+void  colle(int x, int y);
+```
+Should do:
 
 - colle(5, 3);
 
