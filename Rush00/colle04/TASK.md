@@ -1,8 +1,8 @@
-# Piscine 42
+## Piscine 42
 
 School 42 Moldova
 
-colle(5, 3);
+## colle(5, 3);
 
 $>./a.out 
 ABBBC
