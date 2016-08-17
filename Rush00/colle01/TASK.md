@@ -1,4 +1,4 @@
-# Project 02
+# Project 01
 ```C
 void  colle(int x, int y);
 ```
