@@ -6,6 +6,3 @@ First project in C language.
 
 $>./a.out 
 ABBBC
-B   B
-ABBBC
-$>
