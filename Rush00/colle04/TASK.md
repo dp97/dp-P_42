@@ -1,3 +1,7 @@
 colle(5, 3);
 
-$>./a.out ABBBC B B ABBBC $>
+$>./a.out 
+ABBBC
+B   B
+ABBBC
+$>
