@@ -1,6 +1,6 @@
 ## colle(5, 3);
 
-$>./a.out\n
+$>./a.out nl
 ABBBC
 B   B
 ABBBC
