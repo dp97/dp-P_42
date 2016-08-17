@@ -1,8 +1,9 @@
 # Project
-
-First project in C language.
+Should do following:
 
 - colle(5, 3);
 
-$>./a.out 
+$>./a.out
+
 ABBBC
+B   B
