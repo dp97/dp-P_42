@@ -1,4 +1,5 @@
-# Piscine 42
+# Practising in C
 
-School 42 Moldova
-:play loggins
+
+:rocket::rocket::rocket::rocket::rocket:
+:muscle::muscle::muscle:
