@@ -1,3 +1,5 @@
+void    dp_putchar(char c);
+
 int     dp_strlen(char *str)
 {
     int     i;
