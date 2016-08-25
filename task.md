@@ -1,6 +1,7 @@
 # My Tasks
 
-| DAY | TASKS |
+## Daily
+| DAY | STATUS |
 | :-- | :---: |
 | d00 | -/11 |
 | d01 | -/08 |
@@ -16,3 +17,18 @@
 | d11 | -/17 |
 | d12 | -/04 |
 | d13 | -/09 |
+
+## Projects
+| Project | STATUS |
+| :-- | :---: |
+| Sastantua | - |
+| Evalexpr | - |
+| BSQ | - |
+| match-nmatch | - |
+
+## Colles
+| Colle | STATUS |
+| :-- | :---: |
+| Colle 01 | DONE |
+| Colle 02 | - |
+| Colle 03 | - |
