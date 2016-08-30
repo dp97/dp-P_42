@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 int     *dp_range(int min, int max)
 {
     int     *val;
